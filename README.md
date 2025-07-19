@@ -11,8 +11,7 @@ This repo contains my **daily Java programs**, from basic concepts to advanced m
 | Day | Topic              | File Name                     | Description                                     |
 |-----|--------------------|-------------------------------|-------------------------------------------------|
 | 1   | Hello World        | `Day1_HelloWorld.java`        | My first Java program that prints a message     |
-| 2   | Java Variables     | `Day2_VariablesOnly.java`     | Program showing how to use different variables  |
-|     | (Optional Input)   | `Day2_VariablesAndInput.java` | Program using Scanner to take name & age input  |
+| 2   | Java Variables     | `Day2_Variables.java`         | Program showing how to use different variables  |
 
 ---
 
